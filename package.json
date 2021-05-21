@@ -1,0 +1,19 @@
+{
+  "name": "bot-example",
+  "version": "1.0.0",
+  "description": "A simple start to developing with Discord's API. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JexUK/bot-example.git"
+  },
+  "author": "JexUK",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JexUK/bot-example/issues"
+  },
+  "homepage": "https://github.com/JexUK/bot-example#readme"
+}
